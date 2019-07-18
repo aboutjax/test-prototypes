@@ -1,0 +1,22 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-apple-ipad-air-silver": "^1.0.0",
+		"@framer/framer.device-skin-apple-ipad-air-space-gray": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "566265b7-2448-492b-827d-e40c1e6d4782"
+	},
+	"author": "Jacky Lee",
+	"dependencies": {
+		"easytimer.js": "^3.2.0",
+		"lodash": "^4.17.14",
+		"reactn": "^2.1.4"
+	}
+}
