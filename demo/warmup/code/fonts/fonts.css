@@ -2,7 +2,7 @@
   font-family: "Inter-Regular";
   font-style: normal;
   font-weight: 400;
-  src: url("/test-prototypes/demo/warmup/code/fonts/Inter-Regular.woff2")
+  src: url("https://github.com/aboutjax/test-prototypes/blob/master/demo/warmup/code/fonts/Inter-Regular.woff2")
     format("woff2");
 }
 
@@ -10,7 +10,7 @@
   font-family: "Inter-Medium";
   font-style: normal;
   font-weight: 600;
-  src: url("/test-prototypes/demo/warmup/code/fonts/Inter-Medium.woff2")
+  src: url("https://github.com/aboutjax/test-prototypes/blob/master/demo/warmup/code/fonts/Inter-Medium.woff2")
     format("woff2");
 }
 
@@ -18,6 +18,6 @@
   font-family: "Inter-Bold";
   font-style: normal;
   font-weight: 800;
-  src: url("/test-prototypes/demo/warmup/code/fonts/Inter-Bold.woff2")
+  src: url("https://github.com/aboutjax/test-prototypes/blob/master/demo/warmup/code/fonts/Inter-Bold.woff2")
     format("woff2");
 }
