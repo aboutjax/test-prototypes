@@ -100,7 +100,7 @@
                         }
                       ],
                       "cached" : {
-                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:700\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
+                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
                         "os" : "10_14",
                         "size" : {
                           "height" : 36,
@@ -396,11 +396,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -488,11 +488,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },
@@ -650,11 +650,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -742,11 +742,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 102
+                            "width" : 85
                           },
                           "width" : 0
                         },
@@ -904,11 +904,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -1097,11 +1097,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -1189,11 +1189,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },
@@ -1286,6 +1286,238 @@
             "top" : 0,
             "visible" : true,
             "width" : 320,
+            "widthType" : 0
+          },
+          {
+            "__class" : "CodeComponentNode",
+            "aspectRatio" : null,
+            "bottom" : 76,
+            "centerAnchorX" : 0.8515625,
+            "centerAnchorY" : 0.45052083333333331,
+            "children" : [
+              {
+                "__class" : "CodeComponentNode",
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.15895953757225434,
+                "children" : [
+
+                ],
+                "clip" : true,
+                "codeComponentIdentifier" : "@framer\/steveruizok.fontloader\/.\/LocalFontLoader.tsx_CustomFontLoader",
+                "codeComponentProps" : {
+                  "fontFile" : "design\/assets\/Inter-Regular.woff",
+                  "fontName" : "Inter-Regular",
+                  "fontWeight" : "normal",
+                  "source" : "file",
+                  "url" : "https:\/\/"
+                },
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "deviceType" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 220,
+                "heightType" : 0,
+                "id" : "SgvhPdGIq",
+                "intrinsicHeight" : 220,
+                "intrinsicWidth" : 240,
+                "left" : null,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 0,
+                "originalid" : null,
+                "parentid" : "ar6axW7Ju",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : null,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 240,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.52456647398843925,
+                "children" : [
+
+                ],
+                "clip" : true,
+                "codeComponentIdentifier" : "@framer\/steveruizok.fontloader\/.\/LocalFontLoader.tsx_CustomFontLoader",
+                "codeComponentProps" : {
+                  "fontFile" : "design\/assets\/Inter-Medium.woff",
+                  "fontName" : "Inter-Medium",
+                  "fontWeight" : "500",
+                  "source" : "file",
+                  "url" : "https:\/\/"
+                },
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "deviceType" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 220,
+                "heightType" : 0,
+                "id" : "o92y7_H6q",
+                "intrinsicHeight" : 220,
+                "intrinsicWidth" : 240,
+                "left" : null,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 0,
+                "originalid" : null,
+                "parentid" : "ar6axW7Ju",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : null,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 240,
+                "widthType" : 0
+              },
+              {
+                "__class" : "CodeComponentNode",
+                "aspectRatio" : null,
+                "bottom" : null,
+                "centerAnchorX" : 0.5,
+                "centerAnchorY" : 0.84104046242774566,
+                "children" : [
+
+                ],
+                "clip" : true,
+                "codeComponentIdentifier" : "@framer\/steveruizok.fontloader\/.\/LocalFontLoader.tsx_CustomFontLoader",
+                "codeComponentProps" : {
+                  "fontFile" : "design\/assets\/Inter-Bold.woff",
+                  "fontName" : "Inter-Bold",
+                  "fontWeight" : "800",
+                  "source" : "file",
+                  "url" : "https:\/\/"
+                },
+                "codeOverrideEnabled" : false,
+                "constraintsLocked" : false,
+                "deviceType" : null,
+                "exportOptions" : [
+
+                ],
+                "fillColor" : "rgba(255,255,255,1)",
+                "fillEnabled" : false,
+                "fillImage" : null,
+                "fillImagePixelHeight" : null,
+                "fillImagePixelWidth" : null,
+                "fillImageResize" : "fill",
+                "fillType" : "color",
+                "height" : 220,
+                "heightType" : 0,
+                "id" : "uZXFbWQAj",
+                "intrinsicHeight" : 220,
+                "intrinsicWidth" : 240,
+                "left" : null,
+                "locked" : false,
+                "name" : null,
+                "opacity" : 0,
+                "originalid" : null,
+                "parentid" : "ar6axW7Ju",
+                "previewSettings" : null,
+                "radius" : 0,
+                "radiusBottomLeft" : 0,
+                "radiusBottomRight" : 0,
+                "radiusIsRelative" : false,
+                "radiusPerCorner" : false,
+                "radiusTopLeft" : 0,
+                "radiusTopRight" : 0,
+                "right" : null,
+                "rotation" : 0,
+                "top" : null,
+                "visible" : true,
+                "width" : 240,
+                "widthType" : 0
+              }
+            ],
+            "clip" : false,
+            "codeComponentIdentifier" : "framer\/Stack",
+            "codeComponentProps" : {
+              "alignment" : "center",
+              "direction" : "vertical",
+              "distribution" : "space-between",
+              "gap" : 10,
+              "padding" : 0,
+              "paddingBottom" : 0,
+              "paddingLeft" : 0,
+              "paddingPerSide" : false,
+              "paddingRight" : 0,
+              "paddingTop" : 0
+            },
+            "codeOverrideEnabled" : false,
+            "constraintsLocked" : false,
+            "deviceType" : null,
+            "exportOptions" : [
+
+            ],
+            "fillColor" : "rgba(255,255,255,1)",
+            "fillEnabled" : false,
+            "fillImage" : null,
+            "fillImagePixelHeight" : null,
+            "fillImagePixelWidth" : null,
+            "fillImageResize" : "fill",
+            "fillType" : "color",
+            "height" : 692,
+            "heightType" : 0,
+            "id" : "ar6axW7Ju",
+            "intrinsicHeight" : null,
+            "intrinsicWidth" : null,
+            "left" : null,
+            "locked" : false,
+            "name" : null,
+            "opacity" : 1,
+            "originalid" : null,
+            "parentid" : "cxA8HYtyw",
+            "previewSettings" : null,
+            "radius" : 0,
+            "radiusBottomLeft" : 0,
+            "radiusBottomRight" : 0,
+            "radiusIsRelative" : false,
+            "radiusPerCorner" : false,
+            "radiusTopLeft" : 0,
+            "radiusTopRight" : 0,
+            "right" : 32,
+            "rotation" : 0,
+            "top" : 0,
+            "visible" : true,
+            "width" : 240,
             "widthType" : 0
           }
         ],
@@ -1481,7 +1713,7 @@
                         }
                       ],
                       "cached" : {
-                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:700\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
+                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
                         "os" : "10_14",
                         "size" : {
                           "height" : 36,
@@ -1777,11 +2009,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -1869,11 +2101,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },
@@ -2031,11 +2263,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -2123,11 +2355,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 102
+                            "width" : 85
                           },
                           "width" : 0
                         },
@@ -2285,11 +2517,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -2478,11 +2710,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -2570,11 +2802,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },
@@ -2895,11 +3127,11 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Elimination Race<\/span><\/span><\/div>",
+                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Elimination Race<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 19,
-                      "width" : 125
+                      "width" : 113
                     },
                     "width" : 0
                   },
@@ -2985,11 +3217,11 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:24px;letter-spacing:0px;line-height:1.2;font-weight:700\"><span data-text=\"true\">Starting in 0:15<\/span><\/span><\/div>",
+                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:24px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Starting in 0:15<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 28,
-                      "width" : 180
+                      "width" : 151
                     },
                     "width" : 0
                   },
@@ -3078,11 +3310,11 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:16px;letter-spacing:0px;line-height:1.5;font-weight:400\"><span data-text=\"true\">After 3 neutral laps, last rider for each lap is eliminated.<\/span><\/span><\/div>",
+                    "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:#999999;font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">After 3 neutral laps, last rider for each lap is eliminated.<\/span><\/span><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 24,
-                      "width" : 420
+                      "width" : 360
                     },
                     "width" : 0
                   },
@@ -3180,6 +3412,7 @@
                     ],
                     "clip" : false,
                     "codeOverrideEnabled" : false,
+                    "codeOverrideFile" : ".\/Warmup.tsx",
                     "constraintsLocked" : true,
                     "deviceType" : null,
                     "exportOptions" : [
@@ -3656,11 +3889,11 @@
                         }
                       ],
                       "cached" : {
-                        "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"ebhc8-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"ebhc8-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#EE4444;font-size:16px;letter-spacing:0px;line-height:1.5;font-weight:700\"><span data-text=\"true\">LEAVE RACE<\/span><\/span><\/div><\/div>",
+                        "html" : "<div class='DraftEditor-alignCenter'><div data-offset-key=\"ebhc8-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"ebhc8-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:#EE4444;font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">LEAVE RACE<\/span><\/span><\/div><\/div>",
                         "os" : "10_14",
                         "size" : {
                           "height" : 24,
-                          "width" : 100
+                          "width" : 99
                         },
                         "width" : 0
                       },
@@ -3919,7 +4152,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">11<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">11<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
@@ -3989,7 +4222,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5;font-weight:500\"><span data-text=\"true\">LAPS<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5\"><span data-text=\"true\">LAPS<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
@@ -4149,7 +4382,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">1500 m<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">1500 m<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
@@ -4219,7 +4452,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5;font-weight:500\"><span data-text=\"true\">DISTANCE<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5\"><span data-text=\"true\">DISTANCE<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
@@ -4379,7 +4612,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">8<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">8<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
@@ -4449,7 +4682,7 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5;font-weight:500\"><span data-text=\"true\">PLAYERS<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5\"><span data-text=\"true\">PLAYERS<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
@@ -4612,7 +4845,7 @@
                               }
                             ],
                             "cached" : {
-                              "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">ENABLED<\/span><\/span><\/div><\/div>",
+                              "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">ENABLED<\/span><\/span><\/div><\/div>",
                               "os" : "10_14",
                               "size" : {
                                 "height" : 24,
@@ -4682,7 +4915,7 @@
                               }
                             ],
                             "cached" : {
-                              "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5;font-weight:500\"><span data-text=\"true\">FEMALE ONLY<\/span><\/span><\/div><\/div>",
+                              "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5\"><span data-text=\"true\">FEMALE ONLY<\/span><\/span><\/div><\/div>",
                               "os" : "10_14",
                               "size" : {
                                 "height" : 19,
@@ -5230,11 +5463,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">lpangborn<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">lpangborn<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 82
+                            "width" : 73
                           },
                           "width" : 0
                         },
@@ -5306,11 +5539,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">2<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">2<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -5511,11 +5744,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">bjohnston<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">bjohnston<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 81
+                            "width" : 70
                           },
                           "width" : 0
                         },
@@ -5587,11 +5820,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">3<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">3<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -5747,11 +5980,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">chiphawkins<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">chiphawkins<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 101
+                            "width" : 88
                           },
                           "width" : 0
                         },
@@ -5823,11 +6056,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">4<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">4<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -5983,11 +6216,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">tharris<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">tharris<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 54
+                            "width" : 49
                           },
                           "width" : 0
                         },
@@ -6059,11 +6292,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">5<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">5<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -6219,11 +6452,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">dsmith0912<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">dsmith0912<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 95
+                            "width" : 81
                           },
                           "width" : 0
                         },
@@ -6295,11 +6528,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">6<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">6<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -6457,11 +6690,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">jlee1234<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">jlee1234<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 68
+                            "width" : 57
                           },
                           "width" : 0
                         },
@@ -6533,11 +6766,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">7<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">7<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 11
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -6693,11 +6926,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">benjias21<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">benjias21<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 76
+                            "width" : 66
                           },
                           "width" : 0
                         },
@@ -6769,11 +7002,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">8<\/span><\/span><\/div><\/div>",
+                          "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">8<\/span><\/span><\/div><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 24,
-                            "width" : 12
+                            "width" : 9
                           },
                           "width" : 0
                         },
@@ -7007,7 +7240,7 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5;font-weight:500\"><span data-text=\"true\">LAPS<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Medium&quot;, serif;-webkit-text-fill-color:#999999;font-size:13px;letter-spacing:1px;line-height:1.5\"><span data-text=\"true\">LAPS<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 19,
@@ -7109,7 +7342,7 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">11<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">11<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 24,
@@ -7331,7 +7564,7 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">1<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">1<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 24,
@@ -7493,11 +7726,11 @@
                     }
                   ],
                   "cached" : {
-                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:700;tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">p0pmaker<\/span><\/span><\/div><\/div>",
+                    "html" : "<div class='DraftEditor-alignLeft'><div data-offset-key=\"at4tg-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"at4tg-0-0\" style=\"font-weight:bold;tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 0%);font-size:16px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">p0pmaker<\/span><\/span><\/div><\/div>",
                     "os" : "10_14",
                     "size" : {
                       "height" : 24,
-                      "width" : 82
+                      "width" : 72
                     },
                     "width" : 0
                   },
@@ -7747,11 +7980,11 @@
                       }
                     ],
                     "cached" : {
-                      "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                      "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                       "os" : "10_14",
                       "size" : {
                         "height" : 19,
-                        "width" : 72
+                        "width" : 65
                       },
                       "width" : 0
                     },
@@ -7874,7 +8107,6 @@
         "children" : [
           {
             "__class" : "ShapeContainerNode",
-            "aspectRatio" : null,
             "autoSize" : true,
             "bottom" : null,
             "centerAnchorX" : 0.52083333333333337,
@@ -7986,7 +8218,6 @@
             "radiusTopLeft" : 0,
             "radiusTopRight" : 0,
             "right" : null,
-            "rotation" : 0,
             "sizeToFit" : false,
             "top" : null,
             "visible" : true,
@@ -8338,7 +8569,7 @@
                         }
                       ],
                       "cached" : {
-                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5;font-weight:700\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
+                        "html" : "<div data-offset-key=\"45hiv-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"45hiv-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Bold&quot;, serif;-webkit-text-fill-color:hsl(0, 0%, 100%);font-size:24px;letter-spacing:0px;line-height:1.5\"><span data-text=\"true\">Upcoming Events<\/span><\/span><\/div>",
                         "os" : "10_14",
                         "size" : {
                           "height" : 36,
@@ -8634,11 +8865,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -8726,11 +8957,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },
@@ -8888,11 +9119,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -8980,11 +9211,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Scratch Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 102
+                            "width" : 85
                           },
                           "width" : 0
                         },
@@ -9142,11 +9373,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -9335,11 +9566,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgba(0, 0, 0, 0.5);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">10:20 PM<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 72
+                            "width" : 65
                           },
                           "width" : 0
                         },
@@ -9427,11 +9658,11 @@
                           }
                         ],
                         "cached" : {
-                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, &quot;Inter&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2;font-weight:400\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
+                          "html" : "<div data-offset-key=\"abg6h-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"abg6h-0-0\" style=\"tab-size:4;font-family:&quot;Inter-Regular&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Points Race<\/span><\/span><\/div>",
                           "os" : "10_14",
                           "size" : {
                             "height" : 19,
-                            "width" : 90
+                            "width" : 77
                           },
                           "width" : 0
                         },

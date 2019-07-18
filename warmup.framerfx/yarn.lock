@@ -12,6 +12,11 @@
   resolved "https://registry.framer.com/@framer/framer.device-skin-apple-ipad-air-space-gray/-/@framer/framer.device-skin-apple-ipad-air-space-gray-1.0.0.tgz#0914477e546d2d2e06f54fc8deef99903925c515"
   integrity sha512-zro5Y4UkWB5sePMgg39tWpwzI6KlgPh2Hzpg0FTl7Bo/E0am/Z8Fl3Ewv2OkIv4n0djvBB6wQuC+osB9SE3Kbg==
 
+"@framer/steveruizok.fontloader@^1.7.0":
+  version "1.7.0"
+  resolved "https://registry.framer.com/@framer/steveruizok.fontloader/-/@framer/steveruizok.fontloader-1.7.0.tgz#c5d500d2d260b8ae1a2db4e07cfc3dece5c4bf1f"
+  integrity sha512-0m90++cJlbkMSw0TYXAUZjyO2ZrT3F9h1XPhGYWpBtJOhDHceODVSriHcloxqj7VSy//OkvvlYsMqVR9pj8JiA==
+
 "@types/prop-types@*":
   version "15.7.0"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.0.tgz#4c48fed958d6dcf9487195a0ef6456d5f6e0163a"

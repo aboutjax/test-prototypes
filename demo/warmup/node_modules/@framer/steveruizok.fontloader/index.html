@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+
+        <script src="build/react.development.js"></script>
+        <script src="build/react-dom.development.js"></script>
+        <script src="build/framer.js"></script>
+
+        <link href="build/Draft.css" rel="stylesheet" />
+        <link href="build/style.css" rel="stylesheet" />
+
+        <!-- Workaround for a WebKit bug: loading via URL from the stylesheet is denied if this file is loaded via file:/// -->
+        <style>
+            @font-face {
+                font-family: "Roboto Mono";
+                font-style: normal;
+                font-weight: 400;
+                src: local("Roboto Mono"), local("RobotoMono-Regular"),
+                    url("fonts/RobotoMono-Regular.ttf") format("truetype");
+            }
+        </style>
+        <style>
+            * {
+                -webkit-font-smoothing: antialiased;
+            }
+        </style>
+    </head>
+
+    <body>
+        <main></main>
+        <script src="build/standalone.js"></script>
+        
+        <script id="build_index_js">
+        (function webpackUniversalModuleDefinition(root, factory) {
+	if(typeof exports === 'object' && typeof module === 'object')
+		module.exports = factory(require("framer"), require("react"));
+	else if(typeof define === 'function' && define.amd)
+		define(["framer", "react"], factory);
+	else {
+		var a = typeof exports === 'object' ? factory(require("framer"), require("react")) : factory(root["Framer"], root["React"]);
+		for(var i in a) (typeof exports === 'object' ? exports : root)[i] = a[i];
+	}
+})(window, function(__WEBPACK_EXTERNAL_MODULE_framer__, __WEBPACK_EXTERNAL_MODULE_react__) {
+return /******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		try { modules[moduleId].call(module.exports, module, module.exports, __webpack_require__); } catch (error) { module.exports = { error } }
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, {
+/******/ 				configurable: false,
+/******/ 				enumerable: true,
+/******/ 				get: getter
+/******/ 			});
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "";
+/******/
+/******/ 	// asset url
+/******/ 	var __module_i = eval("typeof module !== 'undefined' ? module.i : ''");
+/******/ 	var __framer_package = (/(node_modules[/].*)[/](build|dist).index.js/.exec(__module_i) || [])[1]
+/******/ 	function __asset_url__(src) { return __WEBPACK_EXTERNAL_MODULE_framer__.serverURL(__framer_package, src) };
+/******/ 	installedModules['framer/resource'] = { i: 'framer/resource', l: true, exports: { url: __asset_url__ } };
+/******/
+/******/
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = "./package.js");
+/******/ })
+/************************************************************************/
+/******/ ({
+
+/***/ "./code sync recursive \\.(t|j)s(x?)|\\.css$":
+/*!***************************************!*\
+  !*** ./code sync \.(t|j)s(x?)|\.css$ ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./LocalFontLoader.tsx": "./code/LocalFontLoader.tsx",
+	"./canvas.tsx": "./code/canvas.tsx"
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	var module = __webpack_require__(id);
+	return module;
+}
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) { // check for number or string
+		var e = new Error('Cannot find module "' + req + '".');
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return id;
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "./code sync recursive \\.(t|j)s(x?)|\\.css$";
+
+/***/ }),
+
+/***/ "./code/LocalFontLoader.tsx":
+/*!**********************************!*\
+  !*** ./code/LocalFontLoader.tsx ***!
+  \**********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nObject.defineProperty(exports, \"__esModule\", { value: true });\nconst React = __webpack_require__(/*! react */ \"react\");\nconst framer_1 = __webpack_require__(/*! framer */ \"framer\");\nclass CustomFontLoader extends React.Component {\n    constructor() {\n        super(...arguments);\n        this.componentDidMount = () => {\n            window[\"__checkBudget__\"]();\n            if (!window['customFonts']) {\n                window['customFonts'] = {};\n            }\n            if (window['customFonts'][this.props.id]) {\n                this.updateCSS();\n            }\n            else {\n                this.addCSS();\n            }\n        };\n        this.addCSS = () => {\n            window[\"__checkBudget__\"]();\n            const css = (window['customFonts'][this.props.id] = this.cssNode = document.createElement('style'));\n            css.type = 'text/css';\n            css.id = 'customFonts ' + this.props.id;\n            this.styleNode = document.createTextNode(this.getStyles());\n            css.appendChild(this.styleNode);\n            const head = document.getElementsByTagName('head')[0];\n            head.appendChild(window['customFonts'][this.props.id]);\n        };\n        this.updateCSS = () => {\n            window[\"__checkBudget__\"]();\n            if (!this.styleNode) {\n                return;\n            }\n            window['customFonts'][this.props.id].removeChild(this.styleNode);\n            this.styleNode = document.createTextNode(this.getStyles());\n            window['customFonts'][this.props.id].appendChild(this.styleNode);\n        };\n        this.removeCSS = () => {\n            window[\"__checkBudget__\"]();\n            if (window['customFonts'][this.props.id] &&\n                window['customFonts'][this.props.id] === this.cssNode) {\n                const head = document.getElementsByTagName('head')[0];\n                head.removeChild(window['customFonts'][this.props.id]);\n            }\n        };\n        this.getStyles = () => {\n            window[\"__checkBudget__\"]();\n            const { fontName, fontFile, fontWeight } = this.props;\n            return `\n@font-face {\nfont-family: ${fontName};\nfont-weight: ${fontWeight || 100};\nsrc: url('${fontFile}');\n}`;\n        };\n    }\n    componentDidUpdate() {\n        window[\"__checkBudget__\"]();\n        this.updateCSS();\n    }\n    render() {\n        window[\"__checkBudget__\"]();\n        const { fontName, fontWeight } = this.props;\n        return (React.createElement(\"div\", { style: Object.assign({}, style) },\n            React.createElement(\"div\", null,\n                React.createElement(\"h3\", { style: {\n                        fontFamily: fontName,\n                        fontWeight: fontWeight,\n                        color: 'rgba(0, 153, 255, 1.000)',\n                    } }, \"Custom Font Loader\"),\n                React.createElement(\"ol\", { style: { margin: 'none', padding: 'none' } },\n                    React.createElement(\"li\", null,\n                        \"Select a local font file using the \",\n                        React.createElement(\"b\", null, \"File\"),\n                        \" control.\"),\n                    ' ',\n                    React.createElement(\"li\", null,\n                        \"Enter the font's name using the \",\n                        React.createElement(\"b\", null, \"Name\"),\n                        \" control.\"),\n                    ' ',\n                    React.createElement(\"li\", null,\n                        \"Enter the font's weight using the \",\n                        React.createElement(\"b\", null, \"Weight\"),\n                        \" control.\"),\n                    ' ',\n                    React.createElement(\"li\", null,\n                        \"Place this component somewhere in the \",\n                        React.createElement(\"b\", null, \"first\"),\n                        \" Frame of your prototype.\"),\n                    ' '),\n                React.createElement(\"p\", null,\n                    \"Feel free to \",\n                    React.createElement(\"b\", null, \"hide\"),\n                    \" this component in the Preview.\"))));\n    }\n}\nCustomFontLoader.propertyControls = {\n    fontFile: {\n        type: framer_1.ControlType.File,\n        title: 'File',\n        allowedFileTypes: ['ttf', 'otf', 'woff'],\n    },\n    fontName: {\n        type: framer_1.ControlType.String,\n        title: 'Name',\n        defaultValue: 'MyFont',\n    },\n    fontWeight: {\n        type: framer_1.ControlType.Number,\n        title: 'Weight',\n        min: 0,\n        max: 1000,\n        step: 100,\n        displayStepper: true,\n        defaultValue: 0,\n    },\n};\nCustomFontLoader.defaultProps = {\n    fontName: 'MyFont',\n    height: 220,\n    width: 240,\n};\nexports.CustomFontLoader = CustomFontLoader;\nconst style = {\n    height: '100%',\n    display: 'flex',\n    alignItems: 'center',\n    justifyContent: 'center',\n    flexDirection: 'column',\n    color: '#8855FF',\n    background: 'rgba(136, 85, 255, 0.1)',\n    overflow: 'hidden',\n    padding: 16,\n};\nexports.__info__ = [{ name: \"CustomFontLoader\", children: false, type: \"component\" }];\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb2RlL0xvY2FsRm9udExvYWRlci50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7QUFDQSw4Q0FBOEMsY0FBYztBQUM1RDtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBLG1CQUFtQixpQ0FBaUM7QUFDcEQ7QUFDQTtBQUNBLGVBQWU7QUFDZixlQUFlO0FBQ2YsWUFBWSxTQUFTO0FBQ3JCLENBQUM7QUFDRDtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsZUFBZSx1QkFBdUI7QUFDdEMsNENBQTRDLHdCQUF3QixVQUFVO0FBQzlFO0FBQ0EsMkNBQTJDO0FBQzNDO0FBQ0E7QUFDQTtBQUNBLHFCQUFxQixFQUFFO0FBQ3ZCLDJDQUEyQyxTQUFTLGtDQUFrQyxFQUFFO0FBQ3hGO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsS0FBSztBQUNMO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsS0FBSztBQUNMO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSxLQUFLO0FBQ0w7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EscUJBQXFCLCtEQUErRCIsImZpbGUiOiIuL2NvZGUvTG9jYWxGb250TG9hZGVyLnRzeC5qcyIsInNvdXJjZXNDb250ZW50IjpbIlwidXNlIHN0cmljdFwiO1xuT2JqZWN0LmRlZmluZVByb3BlcnR5KGV4cG9ydHMsIFwiX19lc01vZHVsZVwiLCB7IHZhbHVlOiB0cnVlIH0pO1xuY29uc3QgUmVhY3QgPSByZXF1aXJlKFwicmVhY3RcIik7XG5jb25zdCBmcmFtZXJfMSA9IHJlcXVpcmUoXCJmcmFtZXJcIik7XG5jbGFzcyBDdXN0b21Gb250TG9hZGVyIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHtcbiAgICBjb25zdHJ1Y3RvcigpIHtcbiAgICAgICAgc3VwZXIoLi4uYXJndW1lbnRzKTtcbiAgICAgICAgdGhpcy5jb21wb25lbnREaWRNb3VudCA9ICgpID0+IHtcbiAgICAgICAgICAgIHdpbmRvd1tcIl9fY2hlY2tCdWRnZXRfX1wiXSgpO1xuICAgICAgICAgICAgaWYgKCF3aW5kb3dbJ2N1c3RvbUZvbnRzJ10pIHtcbiAgICAgICAgICAgICAgICB3aW5kb3dbJ2N1c3RvbUZvbnRzJ10gPSB7fTtcbiAgICAgICAgICAgIH1cbiAgICAgICAgICAgIGlmICh3aW5kb3dbJ2N1c3RvbUZvbnRzJ11bdGhpcy5wcm9wcy5pZF0pIHtcbiAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZUNTUygpO1xuICAgICAgICAgICAgfVxuICAgICAgICAgICAgZWxzZSB7XG4gICAgICAgICAgICAgICAgdGhpcy5hZGRDU1MoKTtcbiAgICAgICAgICAgIH1cbiAgICAgICAgfTtcbiAgICAgICAgdGhpcy5hZGRDU1MgPSAoKSA9PiB7XG4gICAgICAgICAgICB3aW5kb3dbXCJfX2NoZWNrQnVkZ2V0X19cIl0oKTtcbiAgICAgICAgICAgIGNvbnN0IGNzcyA9ICh3aW5kb3dbJ2N1c3RvbUZvbnRzJ11bdGhpcy5wcm9wcy5pZF0gPSB0aGlzLmNzc05vZGUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzdHlsZScpKTtcbiAgICAgICAgICAgIGNzcy50eXBlID0gJ3RleHQvY3NzJztcbiAgICAgICAgICAgIGNzcy5pZCA9ICdjdXN0b21Gb250cyAnICsgdGhpcy5wcm9wcy5pZDtcbiAgICAgICAgICAgIHRoaXMuc3R5bGVOb2RlID0gZG9jdW1lbnQuY3JlYXRlVGV4dE5vZGUodGhpcy5nZXRTdHlsZXMoKSk7XG4gICAgICAgICAgICBjc3MuYXBwZW5kQ2hpbGQodGhpcy5zdHlsZU5vZGUpO1xuICAgICAgICAgICAgY29uc3QgaGVhZCA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF07XG4gICAgICAgICAgICBoZWFkLmFwcGVuZENoaWxkKHdpbmRvd1snY3VzdG9tRm9udHMnXVt0aGlzLnByb3BzLmlkXSk7XG4gICAgICAgIH07XG4gICAgICAgIHRoaXMudXBkYXRlQ1NTID0gKCkgPT4ge1xuICAgICAgICAgICAgd2luZG93W1wiX19jaGVja0J1ZGdldF9fXCJdKCk7XG4gICAgICAgICAgICBpZiAoIXRoaXMuc3R5bGVOb2RlKSB7XG4gICAgICAgICAgICAgICAgcmV0dXJuO1xuICAgICAgICAgICAgfVxuICAgICAgICAgICAgd2luZG93WydjdXN0b21Gb250cyddW3RoaXMucHJvcHMuaWRdLnJlbW92ZUNoaWxkKHRoaXMuc3R5bGVOb2RlKTtcbiAgICAgICAgICAgIHRoaXMuc3R5bGVOb2RlID0gZG9jdW1lbnQuY3JlYXRlVGV4dE5vZGUodGhpcy5nZXRTdHlsZXMoKSk7XG4gICAgICAgICAgICB3aW5kb3dbJ2N1c3RvbUZvbnRzJ11bdGhpcy5wcm9wcy5pZF0uYXBwZW5kQ2hpbGQodGhpcy5zdHlsZU5vZGUpO1xuICAgICAgICB9O1xuICAgICAgICB0aGlzLnJlbW92ZUNTUyA9ICgpID0+IHtcbiAgICAgICAgICAgIHdpbmRvd1tcIl9fY2hlY2tCdWRnZXRfX1wiXSgpO1xuICAgICAgICAgICAgaWYgKHdpbmRvd1snY3VzdG9tRm9udHMnXVt0aGlzLnByb3BzLmlkXSAmJlxuICAgICAgICAgICAgICAgIHdpbmRvd1snY3VzdG9tRm9udHMnXVt0aGlzLnByb3BzLmlkXSA9PT0gdGhpcy5jc3NOb2RlKSB7XG4gICAgICAgICAgICAgICAgY29uc3QgaGVhZCA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkJylbMF07XG4gICAgICAgICAgICAgICAgaGVhZC5yZW1vdmVDaGlsZCh3aW5kb3dbJ2N1c3RvbUZvbnRzJ11bdGhpcy5wcm9wcy5pZF0pO1xuICAgICAgICAgICAgfVxuICAgICAgICB9O1xuICAgICAgICB0aGlzLmdldFN0eWxlcyA9ICgpID0+IHtcbiAgICAgICAgICAgIHdpbmRvd1tcIl9fY2hlY2tCdWRnZXRfX1wiXSgpO1xuICAgICAgICAgICAgY29uc3QgeyBmb250TmFtZSwgZm9udEZpbGUsIGZvbnRXZWlnaHQgfSA9IHRoaXMucHJvcHM7XG4gICAgICAgICAgICByZXR1cm4gYFxuQGZvbnQtZmFjZSB7XG5mb250LWZhbWlseTogJHtmb250TmFtZX07XG5mb250LXdlaWdodDogJHtmb250V2VpZ2h0IHx8IDEwMH07XG5zcmM6IHVybCgnJHtmb250RmlsZX0nKTtcbn1gO1xuICAgICAgICB9O1xuICAgIH1cbiAgICBjb21wb25lbnREaWRVcGRhdGUoKSB7XG4gICAgICAgIHdpbmRvd1tcIl9fY2hlY2tCdWRnZXRfX1wiXSgpO1xuICAgICAgICB0aGlzLnVwZGF0ZUNTUygpO1xuICAgIH1cbiAgICByZW5kZXIoKSB7XG4gICAgICAgIHdpbmRvd1tcIl9fY2hlY2tCdWRnZXRfX1wiXSgpO1xuICAgICAgICBjb25zdCB7IGZvbnROYW1lLCBmb250V2VpZ2h0IH0gPSB0aGlzLnByb3BzO1xuICAgICAgICByZXR1cm4gKFJlYWN0LmNyZWF0ZUVsZW1lbnQoXCJkaXZcIiwgeyBzdHlsZTogT2JqZWN0LmFzc2lnbih7fSwgc3R5bGUpIH0sXG4gICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwiZGl2XCIsIG51bGwsXG4gICAgICAgICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudChcImgzXCIsIHsgc3R5bGU6IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRGYW1pbHk6IGZvbnROYW1lLFxuICAgICAgICAgICAgICAgICAgICAgICAgZm9udFdlaWdodDogZm9udFdlaWdodCxcbiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAncmdiYSgwLCAxNTMsIDI1NSwgMS4wMDApJyxcbiAgICAgICAgICAgICAgICAgICAgfSB9LCBcIkN1c3RvbSBGb250IExvYWRlclwiKSxcbiAgICAgICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwib2xcIiwgeyBzdHlsZTogeyBtYXJnaW46ICdub25lJywgcGFkZGluZzogJ25vbmUnIH0gfSxcbiAgICAgICAgICAgICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudChcImxpXCIsIG51bGwsXG4gICAgICAgICAgICAgICAgICAgICAgICBcIlNlbGVjdCBhIGxvY2FsIGZvbnQgZmlsZSB1c2luZyB0aGUgXCIsXG4gICAgICAgICAgICAgICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwiYlwiLCBudWxsLCBcIkZpbGVcIiksXG4gICAgICAgICAgICAgICAgICAgICAgICBcIiBjb250cm9sLlwiKSxcbiAgICAgICAgICAgICAgICAgICAgJyAnLFxuICAgICAgICAgICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwibGlcIiwgbnVsbCxcbiAgICAgICAgICAgICAgICAgICAgICAgIFwiRW50ZXIgdGhlIGZvbnQncyBuYW1lIHVzaW5nIHRoZSBcIixcbiAgICAgICAgICAgICAgICAgICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoXCJiXCIsIG51bGwsIFwiTmFtZVwiKSxcbiAgICAgICAgICAgICAgICAgICAgICAgIFwiIGNvbnRyb2wuXCIpLFxuICAgICAgICAgICAgICAgICAgICAnICcsXG4gICAgICAgICAgICAgICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoXCJsaVwiLCBudWxsLFxuICAgICAgICAgICAgICAgICAgICAgICAgXCJFbnRlciB0aGUgZm9udCdzIHdlaWdodCB1c2luZyB0aGUgXCIsXG4gICAgICAgICAgICAgICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwiYlwiLCBudWxsLCBcIldlaWdodFwiKSxcbiAgICAgICAgICAgICAgICAgICAgICAgIFwiIGNvbnRyb2wuXCIpLFxuICAgICAgICAgICAgICAgICAgICAnICcsXG4gICAgICAgICAgICAgICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoXCJsaVwiLCBudWxsLFxuICAgICAgICAgICAgICAgICAgICAgICAgXCJQbGFjZSB0aGlzIGNvbXBvbmVudCBzb21ld2hlcmUgaW4gdGhlIFwiLFxuICAgICAgICAgICAgICAgICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudChcImJcIiwgbnVsbCwgXCJmaXJzdFwiKSxcbiAgICAgICAgICAgICAgICAgICAgICAgIFwiIEZyYW1lIG9mIHlvdXIgcHJvdG90eXBlLlwiKSxcbiAgICAgICAgICAgICAgICAgICAgJyAnKSxcbiAgICAgICAgICAgICAgICBSZWFjdC5jcmVhdGVFbGVtZW50KFwicFwiLCBudWxsLFxuICAgICAgICAgICAgICAgICAgICBcIkZlZWwgZnJlZSB0byBcIixcbiAgICAgICAgICAgICAgICAgICAgUmVhY3QuY3JlYXRlRWxlbWVudChcImJcIiwgbnVsbCwgXCJoaWRlXCIpLFxuICAgICAgICAgICAgICAgICAgICBcIiB0aGlzIGNvbXBvbmVudCBpbiB0aGUgUHJldmlldy5cIikpKSk7XG4gICAgfVxufVxuQ3VzdG9tRm9udExvYWRlci5wcm9wZXJ0eUNvbnRyb2xzID0ge1xuICAgIGZvbnRGaWxlOiB7XG4gICAgICAgIHR5cGU6IGZyYW1lcl8xLkNvbnRyb2xUeXBlLkZpbGUsXG4gICAgICAgIHRpdGxlOiAnRmlsZScsXG4gICAgICAgIGFsbG93ZWRGaWxlVHlwZXM6IFsndHRmJywgJ290ZicsICd3b2ZmJ10sXG4gICAgfSxcbiAgICBmb250TmFtZToge1xuICAgICAgICB0eXBlOiBmcmFtZXJfMS5Db250cm9sVHlwZS5TdHJpbmcsXG4gICAgICAgIHRpdGxlOiAnTmFtZScsXG4gICAgICAgIGRlZmF1bHRWYWx1ZTogJ015Rm9udCcsXG4gICAgfSxcbiAgICBmb250V2VpZ2h0OiB7XG4gICAgICAgIHR5cGU6IGZyYW1lcl8xLkNvbnRyb2xUeXBlLk51bWJlcixcbiAgICAgICAgdGl0bGU6ICdXZWlnaHQnLFxuICAgICAgICBtaW46IDAsXG4gICAgICAgIG1heDogMTAwMCxcbiAgICAgICAgc3RlcDogMTAwLFxuICAgICAgICBkaXNwbGF5U3RlcHBlcjogdHJ1ZSxcbiAgICAgICAgZGVmYXVsdFZhbHVlOiAwLFxuICAgIH0sXG59O1xuQ3VzdG9tRm9udExvYWRlci5kZWZhdWx0UHJvcHMgPSB7XG4gICAgZm9udE5hbWU6ICdNeUZvbnQnLFxuICAgIGhlaWdodDogMjIwLFxuICAgIHdpZHRoOiAyNDAsXG59O1xuZXhwb3J0cy5DdXN0b21Gb250TG9hZGVyID0gQ3VzdG9tRm9udExvYWRlcjtcbmNvbnN0IHN0eWxlID0ge1xuICAgIGhlaWdodDogJzEwMCUnLFxuICAgIGRpc3BsYXk6ICdmbGV4JyxcbiAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJyxcbiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsXG4gICAgZmxleERpcmVjdGlvbjogJ2NvbHVtbicsXG4gICAgY29sb3I6ICcjODg1NUZGJyxcbiAgICBiYWNrZ3JvdW5kOiAncmdiYSgxMzYsIDg1LCAyNTUsIDAuMSknLFxuICAgIG92ZXJmbG93OiAnaGlkZGVuJyxcbiAgICBwYWRkaW5nOiAxNixcbn07XG5leHBvcnRzLl9faW5mb19fID0gW3sgbmFtZTogXCJDdXN0b21Gb250TG9hZGVyXCIsIGNoaWxkcmVuOiBmYWxzZSwgdHlwZTogXCJjb21wb25lbnRcIiB9XTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./code/LocalFontLoader.tsx\n");
+
+/***/ }),
+
+/***/ "./code/canvas.tsx":
+/*!*************************!*\
+  !*** ./code/canvas.tsx ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+Object.defineProperty(exports, "__esModule", { value: true });
+// WARNING: this file is auto generated, any changes will be lost
+const framer_1 = __webpack_require__(/*! framer */ "framer");
+const canvas = framer_1.CanvasStore.shared({"children":[]});
+
+
+/***/ }),
+
+/***/ "./package.js":
+/*!********************!*\
+  !*** ./package.js ***!
+  \********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// The template for the dynamic webpack entry. Be aware of the variables
+
+const packageJson = __webpack_require__(/*! ./package.json */ "./package.json")
+
+const package = {
+    packageJson,
+    sourceModules: {},
+    dependencies: {},
+}
+
+// This is a special webpack thing that watches the whole directory
+// https://github.com/webpack/docs/wiki/context
+const ctx = __webpack_require__("./code sync recursive \\.(t|j)s(x?)|\\.css$")
+
+ctx.keys().forEach(key => {
+    package.sourceModules[key] = () => ctx(key)
+})
+
+// The packages are passed in through a template
+const packages = {}
+
+                packages["framer"] = () => {
+                    var package = {}
+                    try {
+                        package = __webpack_require__(/*! framer */ "framer")
+                    } catch (e) {
+                        console.log(e)
+                    }
+                    package.__framer__ = package.__framer__ || {}
+                    package.__framer__.packageJson = {"name":"framer","version":"0.10.10","main":"build/framer.js","author":"Framer","license":"MIT","scripts":{"coverage":"jest --config jest.json --coverage","test":"jest --config jest.json","watch":"jest --config jest.json --watch"},"devDependencies":{"@microsoft/api-documenter":"^1.5.47","@microsoft/api-extractor":"^7","@types/chalk":"^2.2.0","@types/draft-js":"0.10.19","@types/enzyme":"^3.1.10","@types/enzyme-adapter-react-16":"^1.0.3","@types/hsluv":"https://github.com/framer/typed_hsluv#bump","@types/jest":"^23.0.0","@types/jest-diff":"^20.0.0","@types/jest-matcher-utils":"^21.0.1","@types/node":"^9.6.0","@types/react":"^16","@types/react-dom":"^16","cache-loader":"^1.2.2","chalk":"^2.4.1","convert-tsconfig-paths-to-webpack-aliases":"^0.9.2","css.escape":"^1.5.1","draft-js":"0.10.4","enzyme":"^3.3.0","enzyme-adapter-react-16":"^1.1.1","eventemitter3":"^3.1.0","fork-ts-checker-webpack-plugin":"^0.4.1","hoist-non-react-statics":"^2.5.0","hsluv":"^0.0.3","immutable":"^3.8.2","jest":"^23.1.0","jest-diff":"^23.6.0","jest-junit":"^5.2.0","progress-bar-webpack-plugin":"^1.11.0","raf":"^3.4.0","react":"~16.4","react-dev-utils":"^5.0.1","react-dom":"~16.4","semver":"^5.6.0","ts-jest":"^23.10.5","ts-loader":"^4.1.0","typescript":"^3.0.1","watch":"^1.0.2","webpack":"^4.4.1","webpack-cli":"^3.1.2","webpack-dev-server":"^3.1.10","xcssmatrix":"^0.2.2"},"peerDependencies":{"react":"^16.3","react-dom":"^16.3"},"tsdoc":{"tsdocFlavor":"AEDoc"},"framer":{"components":[{"name":"Scroll","children":true,"properties":[{"key":"direction","title":"Direction","kind":"enum","options":["horizontal","vertical","both"]}]},{"name":"Page"},{"name":"Stack"},{"name":"FramerAppleWatch38","type":"device"},{"name":"FramerAppleWatch42","type":"device"},{"name":"FramerSonySmartWatch","type":"device"},{"name":"FramerAppleIPhoneSE","type":"device"},{"name":"FramerAppleIPhone8","type":"device"},{"name":"FramerAppleIPhone8Plus","type":"device"},{"name":"FramerAppleIPhoneXS","type":"device"},{"name":"FramerAppleIPhoneXR","type":"device"},{"name":"FramerAppleIPhoneXSMax","type":"device"},{"name":"FramerGooglePixel2","type":"device"},{"name":"FramerGooglePixel2XL","type":"device"},{"name":"FramerGooglePixel3","type":"device"},{"name":"FramerGooglePixel3XL","type":"device"},{"name":"FramerSamsungNote5","type":"device"},{"name":"FramerSamsungGalaxyS9","type":"device"},{"name":"FramerAppleIPadAir","type":"device"},{"name":"FramerAppleIPadMini","type":"device"},{"name":"FramerAppleIPadPro","type":"device"},{"name":"FramerGoogleNexusTablet","type":"device"},{"name":"FramerMicrosoftSurfacePro3","type":"device"},{"name":"FramerMicrosoftSurfacePro4","type":"device"},{"name":"FramerAppleIMac","type":"device"},{"name":"FramerAppleThunderboltDisplay","type":"device"},{"name":"FramerAppleMacBook","type":"device"},{"name":"FramerAppleMacBookAir","type":"device"},{"name":"FramerAppleMacBookPro","type":"device"},{"name":"FramerDellXPS","type":"device"},{"name":"FramerMicrosoftSurfaceBook","type":"device"},{"name":"FramerSonyW850C","type":"device"},{"name":"FramerStoreArtwork","type":"device"},{"name":"FramerStoreIcon","type":"device"}]}}
+                    return package
+                }
+
+package.dependencies = packages
+
+exports.__framer__ = package
+
+
+/***/ }),
+
+/***/ "./package.json":
+/*!**********************!*\
+  !*** ./package.json ***!
+  \**********************/
+/*! exports provided: main, license, devDependencies, peerDependencies, framer, author, name, version, default */
+/***/ (function(module) {
+
+module.exports = {"main":"dist/index.js","license":"MIT","devDependencies":{"@types/react":"^16.4.16"},"peerDependencies":{"framer":"^0.9.6 || ^0.10","react":"^16.3.0","react-dom":"^16.3.0"},"framer":{"id":"afd1b765-e12c-49e6-85ee-4eccabbcc59f","displayName":"Custom Font Loader"},"author":"Steve Ruiz","name":"@framer/steveruizok.fontloader","version":"1.1.0"};
+
+/***/ }),
+
+/***/ "framer":
+/*!******************************************************************************************!*\
+  !*** external {"root":"Framer","commonjs2":"framer","commonjs":"framer","amd":"framer"} ***!
+  \******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = __WEBPACK_EXTERNAL_MODULE_framer__;
+
+/***/ }),
+
+/***/ "react":
+/*!**************************************************************************************!*\
+  !*** external {"root":"React","commonjs2":"react","commonjs":"react","amd":"react"} ***!
+  \**************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
+
+/***/ })
+
+/******/ });
+});
+        </script>
+        
+        <script>
+        const data = {
+  "presentationNode": {
+    "componentClass": "Frame",
+    "props": {
+      "key": "YHpCGTqSK",
+      "id": "id_YHpCGTqSK",
+      "willChangeTransform": false,
+      "opacity": 1,
+      "radius": 0,
+      "rotation": 0,
+      "visible": true,
+      "overflow": "hidden",
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1,
+        "h": 0,
+        "s": 0,
+        "l": 1,
+        "initialValue": "white",
+        "roundA": 1,
+        "format": "rgb"
+      },
+      "left": 243,
+      "right": null,
+      "top": -22,
+      "bottom": null,
+      "width": 554,
+      "height": 564,
+      "aspectRatio": null,
+      "centerX": "0%",
+      "centerY": "0%",
+      "parentSize": null
+    },
+    "children": [
+      {
+        "componentClass": "ComponentContainer",
+        "props": {
+          "key": "qxCaGApeE",
+          "id": "id_qxCaGApeE",
+          "willChangeTransform": false,
+          "rotation": 0,
+          "opacity": 1,
+          "componentIdentifier": "./LocalFontLoader.tsx_CustomFontLoader",
+          "visible": true,
+          "left": 24,
+          "right": 23,
+          "top": 88,
+          "bottom": null,
+          "width": 507,
+          "height": 266,
+          "aspectRatio": null,
+          "centerX": "50.09025270758123%",
+          "centerY": "39.184397163120565%",
+          "parentSize": null
+        },
+        "children": [
+          {
+            "componentClass": "./LocalFontLoader.tsx_CustomFontLoader",
+            "props": {
+              "fontFile": "design/assets/Px437_IBM_VGA8.ttf",
+              "fontName": "Px437_IBM_VGA8",
+              "fontWeight": 0,
+              "__serverResources": [
+                "fontFile"
+              ],
+              "placeholders": null,
+              "id": "qxCaGApeE./LocalFontLoader.tsx_CustomFontLoader",
+              "key": "qxCaGApeE./LocalFontLoader.tsx_CustomFontLoader"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "navigationLink": {
+      "navigationTarget": "Mo0GxMXiK",
+      "navigationTransition": "push",
+      "navigationTransitionDirection": "left",
+      "navigationTransitionOverrides": {
+        "backdropColor": "rgba(4,4,15,.4)"
+      }
+    }
+  },
+  "metadata": {
+    "name": "Frame",
+    "id": "YHpCGTqSK",
+    "width": 554,
+    "height": 564,
+    "settings": {
+      "zoom": -1,
+      "rotate": false,
+      "bezel": false,
+      "responsive": false,
+      "touch": true,
+      "__class": "PreviewSettings"
+    }
+  },
+  "navigation": {
+    "Mo0GxMXiK": {
+      "componentClass": "Frame",
+      "props": {
+        "key": "Mo0GxMXiK",
+        "id": "id_Mo0GxMXiK",
+        "willChangeTransform": false,
+        "opacity": 1,
+        "radius": 0,
+        "rotation": 0,
+        "visible": true,
+        "overflow": "hidden",
+        "background": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1,
+          "h": 0,
+          "s": 0,
+          "l": 1,
+          "initialValue": "white",
+          "roundA": 1,
+          "format": "rgb"
+        },
+        "left": 822,
+        "right": null,
+        "top": -22,
+        "bottom": null,
+        "width": 586,
+        "height": 564,
+        "aspectRatio": null,
+        "centerX": "0%",
+        "centerY": "0%",
+        "parentSize": null
+      },
+      "children": [
+        {
+          "componentClass": "Text",
+          "props": {
+            "key": "rkMQkBBte",
+            "id": "id_rkMQkBBte",
+            "willChangeTransform": false,
+            "opacity": 1,
+            "rotation": 0,
+            "visible": true,
+            "autoSize": true,
+            "size": {
+              "width": 217,
+              "height": 19
+            },
+            "isEditable": false,
+            "rawHTML": "<div data-offset-key=\"14glt-0-0\" class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\"><span data-offset-key=\"14glt-0-0\" style=\"tab-size:4;font-weight:400;font-family:&quot;Px437_IBM_VGA8&quot;, &quot;Px437 IBM VGA8&quot;, serif;-webkit-text-fill-color:rgb(0, 0, 0);font-size:16px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">This text should look okay.</span></span></div>",
+            "left": null,
+            "right": null,
+            "top": 93,
+            "bottom": null,
+            "width": 217,
+            "height": 19,
+            "aspectRatio": null,
+            "centerX": "49.91467576791809%",
+            "centerY": "18.173758865248228%",
+            "parentSize": null
+          }
+        }
+      ],
+      "navigationLink": {
+        "navigationTarget": "@Previous",
+        "navigationTransition": "push",
+        "navigationTransitionDirection": "left",
+        "navigationTransitionOverrides": {
+          "backdropColor": "rgba(4,4,15,.4)"
+        }
+      }
+    }
+  }
+};
+        const $build_index_js = document.querySelector("#build_index_js")
+        const script = $build_index_js ? $build_index_js.textContent.trim() : ""
+        
+        // need react to have rendered, before we can do setPreviewData
+        setTimeout(() => {
+            if (script.length > 0) {
+                setPreviewData(script, data)
+            } else {
+                fetch("build/index.js").then((response) => {
+                    return response.text().then((script) => {
+                        setPreviewData(script, data)
+                    })
+                })
+            }
+        }, 0)
+        </script>
+    </body>
+</html>

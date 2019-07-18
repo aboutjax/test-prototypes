@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.4.16"
+	},
+	"peerDependencies": {
+		"framer": "^0.9.6 || ^0.10 || ^1",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"framer": {
+		"id": "afd1b765-e12c-49e6-85ee-4eccabbcc59f",
+		"displayName": "Custom Font Loader"
+	},
+	"author": "Steve Ruiz",
+	"name": "@framer/steveruizok.fontloader",
+	"version": "1.7.0"
+}

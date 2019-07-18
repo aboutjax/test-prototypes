@@ -15,6 +15,7 @@
 	},
 	"author": "Jacky Lee",
 	"dependencies": {
+		"@framer/steveruizok.fontloader": "^1.7.0",
 		"easytimer.js": "^3.2.0",
 		"lodash": "^4.17.14",
 		"reactn": "^2.1.4"
